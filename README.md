@@ -1,4 +1,4 @@
-# Students-Data-Collection-
+# Students-Data-Collection
 Here I made a Students Data Collection Repository using C++.
 - I add Name, Roll, Number, Qualification, Subject and Marks. 
 # OutPut
